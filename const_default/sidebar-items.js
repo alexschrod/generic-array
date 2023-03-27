@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":[["ConstDefault","Implements a compilation time default value for the implemented type."]]};
